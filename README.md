@@ -1,6 +1,6 @@
-# shop_app
+# Shopping App 🛍️🛒
 
-A new Flutter project.
+A simple shopping app made using Flutter with Firebase backend. Users can login, signup and logout. Customers can order, view, edit and add new products too. All information entered is stored in a firebase database.
 
 ## Getting Started
 
